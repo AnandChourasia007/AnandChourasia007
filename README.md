@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/AnandChourasia007/<OWNER>/<OWNER>/githubHeader.png "Header")]
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandChourasia007&layout=compact)](https://github.com/AnandChourasia007/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandChourasia007)](https://git.io/streak-stats)
