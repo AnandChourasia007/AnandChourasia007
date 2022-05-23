@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I love memes.  <br/> <br/> <br/>
+- ⚡ Fun fact: Coding is the closest we've ever got to a superpower .  <br/> <br/> <br/>
  ![web-designer-developer-jokes-humour-funny-13](https://user-images.githubusercontent.com/89119829/156361510-b6bd3a52-a463-42c1-ab97-0ea8939cbe20.jpg)
 
 
